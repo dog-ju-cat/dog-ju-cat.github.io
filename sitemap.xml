@@ -2,9 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://codedog.live/about/index.html</loc>
+    
+    <lastmod>2020-03-15T06:37:22.404Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://codedog.live/categories/index.html</loc>
+    
+    <lastmod>2020-03-15T06:36:26.889Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://codedog.live/tags/index.html</loc>
+    
+    <lastmod>2020-03-15T06:30:53.088Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://codedog.live/2020/03/14/hello-world/</loc>
     
     <lastmod>2020-03-14T15:25:48.288Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://codedog.live/live2d-widget-master/README.html</loc>
+    
+    <lastmod>2020-02-28T14:02:35.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://codedog.live/live2d-widget-master/waifu-tips.json</loc>
+    
+    <lastmod>2020-02-28T14:02:35.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://codedog.live/live2d-widget-master/demo/demo2.html</loc>
+    
+    <lastmod>2020-02-28T14:02:35.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://codedog.live/live2d-widget-master/demo/demo1.html</loc>
+    
+    <lastmod>2020-02-28T14:02:35.000Z</lastmod>
     
   </url>
   
